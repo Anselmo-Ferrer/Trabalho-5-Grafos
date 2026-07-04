@@ -1,18 +1,5 @@
 # T5 – Coloração de Grafos com DSatur
 
-**Disciplina:** Resolução de Problemas com Grafos  
-**Orientador:** Prof. Me Ricardo Carubbi
-**Grupo:**
-- Anselmo Teixeira — 2410414
-- João Marcelo Jucá — 2410392
-- Thigo Victor Ferreira — 2410413
-
----
-
-## Vídeo explicativo
-
-> Link: https://drive.google.com/drive/folders/18lm9jzZqeqzmkQSFjW6nljg_9EilG3ly?usp=sharing
-
 ---
 
 ## Descrição
